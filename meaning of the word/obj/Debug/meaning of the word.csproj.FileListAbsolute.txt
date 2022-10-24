@@ -1,0 +1,8 @@
+C:\Users\Danii\source\repos\meaning of the word\meaning of the word\bin\Debug\meaning of the word.exe.config
+C:\Users\Danii\source\repos\meaning of the word\meaning of the word\bin\Debug\meaning of the word.exe
+C:\Users\Danii\source\repos\meaning of the word\meaning of the word\bin\Debug\meaning of the word.pdb
+C:\Users\Danii\source\repos\meaning of the word\meaning of the word\obj\Debug\meaning of the word.csproj.AssemblyReference.cache
+C:\Users\Danii\source\repos\meaning of the word\meaning of the word\obj\Debug\meaning of the word.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danii\source\repos\meaning of the word\meaning of the word\obj\Debug\meaning of the word.csproj.CoreCompileInputs.cache
+C:\Users\Danii\source\repos\meaning of the word\meaning of the word\obj\Debug\meaning of the word.exe
+C:\Users\Danii\source\repos\meaning of the word\meaning of the word\obj\Debug\meaning of the word.pdb
